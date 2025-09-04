@@ -3,5 +3,35 @@
         "name": "Hollow Knight",
         "slug": "hollow-knight",
         "image": "/cache/data/image/game/hollow-knight/hollow-knight-game-m186x186.webp"
+    },
+    {
+        "name": "Hollow Knight: Grubgrave",
+        "slug": "hollow-knight-grubgrave",
+        "image": "/cache/data/image/game/hollow-knight-grubgrave-m186x186.webp"
+    },
+    {
+        "name": "Hollow Knight Beta",
+        "slug": "hollow-knight-beta",
+        "image": "/cache/data/image/game/hollow-knight-beta/hollow-knight-beta-m186x186.webp"
+    },
+    {
+        "name": "Hollow Knight Boss Battle",
+        "slug": "hollow-knight-boss-battle",
+        "image": "/cache/data/image/game/hollow-knight-boss-battle/hollow-knight-boss-battle-m186x186.webp"
+    },
+    {
+        "name": "Hollow Knight Grab Grub",
+        "slug": "hollow-knight-grab-grub",
+        "image": "/cache/data/image/game/hollow-knight-grab-grub/hollow-knight-grab-grub-m186x186.webp"
+    },
+    {
+        "name": "Hollow Knight: Silksong",
+        "slug": "hollow-knight-silksong",
+        "image": "/cache/data/image/game/hollow-knight-silksong/hollow-knight-silksong-m186x186.webp"
+    },
+    {
+        "name": "Hollow Knight Sign Mender",
+        "slug": "hollow-knight-sign-mender",
+        "image": "/cache/data/image/game/hollow-knight-sign-mender/hollow-knight-sign-mender-m186x186.webp"
     }
 ]
