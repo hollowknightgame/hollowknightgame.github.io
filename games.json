@@ -15,6 +15,16 @@
         "image": "/cache/data/image/game/hollow-knight-beta/hollow-knight-beta-m186x186.webp"
     },
     {
+        "name": "Dank Tomb",
+        "slug": "dank-tomb",
+        "image": "/cache/data/image/game/dank-tomb-m186x186.webp"
+    },
+    {
+        "name": "Cuckoo Castle",
+        "slug": "cuckoo-castle",
+        "image": "/cache/data/image/game/cuckoo-castle/cuckoo-castle-m186x186.webp"
+    },
+    {
         "name": "Hollow Knight Boss Battle",
         "slug": "hollow-knight-boss-battle",
         "image": "/cache/data/image/game/hollow-knight-boss-battle/hollow-knight-boss-battle-m186x186.webp"
